@@ -4,3 +4,4 @@
 - They have provided you with datasets including customer demographics, transaction details, customer exit information, and 
   active customer profiles.
 
+![image](https://github.com/user-attachments/assets/d9020973-3ee0-4107-92de-168df5d9568b)
